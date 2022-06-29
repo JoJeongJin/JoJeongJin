@@ -3,3 +3,5 @@
 ![statistics](https://raw.githubusercontent.com/JoJeongJin/github-stats-transparent/6c7700d0623f36c470a2c13de48f89261aaafcce/generated/overview.svg)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoJeongJin)](https://github.com/JoJeongJin/github-readme-stats)
+
+[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=apjojeongjin)](https://solved.ac/apjojeongjin)
